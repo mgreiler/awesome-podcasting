@@ -24,6 +24,7 @@ Ever podcaster needs some equipement. The minimum is some device for recording y
 
 ### Editing:
 - [Descript](): Allows to edit the podcast based on the transcript it generates.
+- [QuietTake Noise Remover](https://noiseremover.site/): Free browser-local cleanup for short speech recordings, with RNNoise, original/cleaned playback and WAV export; no account or upload, up to 50 MB and five minutes.
 
 ### Recording:
 - [Zencastr](https://zencastr.com/): Records a seperate audio and video track per person.
